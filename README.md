@@ -1,4 +1,4 @@
-# pdf-parse
+# pdf-image-extract
 
 ## Project setup
 ```
