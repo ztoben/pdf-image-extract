@@ -1,29 +1,6 @@
 # pdf-image-extract
 
-## Project setup
-```
-npm install
-```
+Extract images from pdfs directly, or by looking for RGB outlines.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+*Check out the live version [here](https://ztoben.github.io/pdf-image-extract/).*
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
